@@ -1,0 +1,14 @@
+{
+    "name": "zkrat/while-timer",
+    "description": "Easy tool for sleep timer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zkrat",
+            "email": "hajek@zkrat.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
