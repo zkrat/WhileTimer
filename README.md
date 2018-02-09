@@ -5,7 +5,7 @@ Example of use 3 cycles with 2 secodns sleep
 ```
 do{
 	echo 'ahoj'.\zkrat\WhileTimer::getCounter().PHP_EOL;
-}while(WhileTimer::sleep(6,2));
+}while(\zkrat\WhileTimer::sleep(6,2));
 ```
 
 Microseconds alternative:
