@@ -1,6 +1,6 @@
 {
     "name": "zkrat/while-timer",
-    "description": "Easy tool for sleep timer",
+    "description": "Easy tool for loop sleep timer",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,6 +9,9 @@
             "email": "hajek@zkrat.net"
         }
     ],
+    "require": {
+      "php": ">=7.0.0"
+    },
     "minimum-stability": "dev",
     "require": {}
 }
