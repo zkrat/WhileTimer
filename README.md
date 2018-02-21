@@ -1,6 +1,20 @@
 # WhileTimer
 Easy tool for sleep timer depends on number of
 
+Installation
+------------
+
+The recommended way to install is via Composer:
+
+```
+composer require nette/utils
+```
+
+It requires PHP version 7.0+
+
+
+Examples:
+---------
 
 Every 100 milliseconds, maximum 2 seconds:
 ```
