@@ -7,7 +7,7 @@ Installation
 The recommended way to install is via Composer:
 
 ```
-composer require nette/utils
+composer require zkrat/while-timer
 ```
 
 It requires PHP version 7.0+
